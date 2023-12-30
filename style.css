@@ -481,34 +481,37 @@ ul{
 }
 
 /* programming languges moving bar */
-.html{
-    width: 95%;
-    animation: html 5s;
-}
-.css{
-    width: 90%;
-    animation: css 5s;
-}
 .javascript{
     width: 85%;
     animation: javascript 5s;
 }
-.java{
-    width: 75%;
-    animation: java 5s;
+.nodejs{
+    width: 85%;
+    animation: nodejs 5s;
 }
-.python{
+.expressjs{
     width: 70%;
-    animation: python 5s;
+    animation: expressjs 5s;
 }
-
+.laravel{
+    width: 50%;
+    animation: laravel 5s;
+}
+.mysql{
+    width: 80%;
+    animation: mysql 5s;
+}
+.mongodb{
+    width: 20%;
+    animation: mongodb 5s;
+}
 .react{
     width: 30%;
     animation: react 5s;
 }
-.bootstrap{
-    width: 40%;
-    animation: bootstrap 5s;
+.nextjs{
+    width: 30%;
+    animation: nextjs 5s;
 }
 .git{
     width: 90%;
@@ -517,6 +520,10 @@ ul{
 .netlify{
     width: 80%;
     animation: netlify 5s;
+}
+.aws{
+    width: 80%;
+    animation: aws 5s;
 }
 .firebase{
     width: 50%;
